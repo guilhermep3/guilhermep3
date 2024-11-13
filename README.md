@@ -2,7 +2,7 @@
 # 👨‍💻 Guilherme Pereira
 **`Desenvolvedor Front-End`**
 
-Me chamo Guilherme Pereira, estou estudando react e praticando as tecnologias que aprendi
+Estudante de Desenvolvimento de Software
 ---
 ### Linguagens e Tecnologias
 
