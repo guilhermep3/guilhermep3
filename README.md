@@ -102,13 +102,12 @@ Acesse meu [portfolio](http://www.guilhermep3.vercel.app)
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermep3&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=guilhermep3&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent&locale=pt-br"
   />
 
   <img 
     align="left"
     alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa-vercel.app/api/top-langs/?username=guilhermep3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermep3&layout=compact&langs_count=9&theme=transparent&locale=pt-br"
   />
 </p>
